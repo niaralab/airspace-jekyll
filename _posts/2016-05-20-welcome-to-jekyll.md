@@ -1,26 +1,33 @@
 ---
 layout: post
-title: Welcome to jekyll!
-subtitle: Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com
-date: 2016-05-20 21:11:27
-author: jekyll
+title: A importância da prototipação para o desenvolvimento de softwares
+subtitle: 
+date: 2017-04-24 00:41:50
+author: Bruno Oliveira
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Protótipos são modelos, exemplos de como vai funcionar o software após desenvolvido. Esses modelos (Protótipo) podem ser visualizados em diversos níveis de detalhamento ou fidelidade, quanto mais alto for o nível mais semelhante o protótipo fica ao produto final.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+A escolha do nível de fidelidade do protótipo varia de acordo com a necessidade para cada projeto, levando em consideração os seguintes parâmetros: Complexidade dos requisitos, Prazo e Orçamento disponível para a elaboração e manutenção dos protótipos.
 
-Jekyll also offers powerful support for code snippets:
+Pode-se dividir os protótipos em 3 (três) tipos diferentes:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Wireframe
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Esse tipo de prototipação é de baixa fidelidade, e é altamente recomendado para os projetos com curto prazo e baixo orçamento para a realização dessa tarefa, pois o objetivo não é validar o fluxo de telas e layout, mas sim regras de negócios e requisitos. Papel e caneta são as melhores ferramentas para a criação de wireframes/ Rascunhos, mas para os que preferem uma ferramenta informatizada o Pencil cumpre muito bem a função.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Visual
+
+Após os requisitos e regras de negócios terem sidos entendidos por toda a equipe do projeto, o Protótipo visual pode ser produzido. Seu foco é na criação do modelo visual da ferramenta, ou seja, layout estático, ainda não possui interações entre telas. Esse protótipo demanda um tempo maior para desenvolver e melhorando. Ferramentas para esse tipo de protótipo é basicamente as de edição de imagem, por exemplo o Gimp ou Photoshop.
+
+Interativo
+
+O protótipo visual representa mais fielmente possível o produto final, tendo em vista a possibilidade de exemplificar as funcionalidades, interação entre telas, opções estéticas e efeitos. Além disso o modelo interativo pode facilitar o entendimento das funcionalidades do produto por parte da equipe de desenvolvimento e contribui com a solução antecipada de problemas identificados nessa etapa que poderiam surgir no desenvolvimento ou após a entrega, se a prototipação não fosse realizada, além disso, possibilita a identificação de novas oportunidades ao produto, gerando mais valor ao cliente. O ponto negativo, porém inevitável desse tipo de prototipação é o tempo (maior) para sua criação. Uma excelente ferramenta a qual eu utilizo (e, modéstia a parte, muito bem) se chama, além da infinidades de possibilidades, a comunidade no próprio site é incrível.
+
+Enfim…
+O protótipo possui níveis de fidelidade e esses níveis variam para o projeto de acordo com a complexidade dos requisitos, prazo e orçamento para a criação e manutenção. Vimos também que é extremamente importante que o cliente e a equipe de desenvolvimento estejam visualizando o mesmo projeto.
+
+A prototipação então, é importante para o melhor entendimento dos requisitos e regras do sistema por parte dos desenvolvedores, geração de valor ao cliente tendo em vista a possibilidade do surgimento de novas ideias ainda nessa etapa, identificação de problemas antecipadamente, enfim, faça protótipos sempre.
+
+Espero que tenham achado este primeiro artigo ao menos interessante, pois a meta e me dedicar para escrever muitos mais.
+
+Grato pela atenção e até o próximo
