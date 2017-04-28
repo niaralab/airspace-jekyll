@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Um poema de fim de Tarde"
+comments: true
 author: "Crisley Caroline"
 meta: "Springfield"
 ---
