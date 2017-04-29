@@ -4,6 +4,7 @@ title: "Vamos Falar Sobre Git?"
 author: "Ike Banto"
 image: '/assets/img/sobre-git.jpg'
 comments: true
+twitter_text: Vamos Falar Sobre Git?
 meta: "Niara Lab"
 ---
 
