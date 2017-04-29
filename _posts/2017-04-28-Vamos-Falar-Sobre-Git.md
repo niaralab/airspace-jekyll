@@ -7,7 +7,7 @@ comments: true
 meta: "Niara Lab"
 ---
 
-![Sobre Git](assets/img/sobre-git.jpg  "Sobre Git")
+![Sobre Git](/assets/img/sobre-git.jpg  "Sobre Git")
 
 
 
