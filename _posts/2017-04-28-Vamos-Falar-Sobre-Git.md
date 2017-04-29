@@ -2,11 +2,13 @@
 layout: post
 title: "Vamos Falar Sobre Git?"
 author: "Ike Banto"
+image: '/assets/img/sobre-git.jpg'
 comments: true
 meta: "Niara Lab"
 ---
 
-![Logo Git](/home/emeagwali/documents/NiaraLab/Pictures/logo@2x.png  "Git")
+![Sobre Git](assets/img/sobre-git.jpg  "Sobre Git")
+
 
 
 >Eu pretendia no meu primeiro post, falar um pouco sobre o [Git](https://git-scm.com/) e sobre o [GitHub](https://github.com), seria um post de o que é cada um e como usar... Mas como eu sempre dou uma olhada em alguns sites semanalmente, passando no site do [Tableless](https://tableless.com.br/), tem um artigo muito bacana que recomedo que leiam por la.
